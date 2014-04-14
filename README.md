@@ -13,7 +13,8 @@ linux--gcc--
     gcc -c hello.i -o hello.o
     gcc hello.o -o hello
     ./hello                        (这一步运行程序)
-    有木有觉得这几不好麻烦啊。。。所以又就下来的方法进行简化
+    
+######有木有觉得这几步好麻烦啊。。。所以又有接下来的方法进行简化######
     
 ####[Linux下GCC和Makefile实例（从GCC的编译到Makefile的引入）](http://www.crazyant.net/414.html)####
 
